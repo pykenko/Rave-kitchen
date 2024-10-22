@@ -15,4 +15,4 @@ OOP Concepts: Exploring encapsulation, inheritance, and polymorphism to structur
 
 
 
-notes : this project isnt a finished project
+note : this project isnt finished
